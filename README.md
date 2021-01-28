@@ -1,16 +1,18 @@
-### Hi there 👋
+
 
 <!--
 **jackieeissman/jackieeissman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a 2nd year graduate student in the Human Geneetics (HGEN) department at Vanderbilt University.
+
+I am the lab of Tim Hohman, PhD., which is part of the [Vanderbilt Memory & Alzheimer's Center](https://www.vumc.org/vmac/).
+
+Currently, I am studying sex differences underlying resilience to Alzheimer's disease! I use computational genetics methods including genome-wide association studies (GWAS), gene-and pathway-based tests, and genetic correlation analyses. 
+
+Coding languages that I use include: `R`, `Bash`, `Python`, and `PLINK` genetics software.
+
+A fun fact about me is that I was a figure skater for 13 years!
+
 -->

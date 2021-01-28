@@ -1,6 +1,5 @@
 
 
-<!--
 **jackieeissman/jackieeissman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi!
@@ -14,5 +13,3 @@ Currently, I am studying sex differences underlying resilience to Alzheimer's di
 Coding languages that I use include: `R`, `Bash`, `Python`, and `PLINK` genetics software.
 
 A fun fact about me is that I was a figure skater for 13 years!
-
--->

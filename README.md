@@ -1,6 +1,6 @@
 Hi!
 
-I am a 2nd year graduate student in the [Human Geneetics (HGEN)](https://medschool.vanderbilt.edu/igp/human-genetics/) department at Vanderbilt University.
+I am a 2nd year graduate student in the [Human Genetics (HGEN)](https://medschool.vanderbilt.edu/igp/human-genetics/) department at Vanderbilt University.
 
 I am in the lab of Tim Hohman, PhD., which is part of the [Vanderbilt Memory & Alzheimer's Center](https://www.vumc.org/vmac/).
 

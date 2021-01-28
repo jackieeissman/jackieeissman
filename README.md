@@ -1,12 +1,8 @@
-
-
-**jackieeissman/jackieeissman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi!
 
-I am a 2nd year graduate student in the Human Geneetics (HGEN) department at Vanderbilt University.
+I am a 2nd year graduate student in the [Human Geneetics (HGEN)](https://medschool.vanderbilt.edu/igp/human-genetics/) department at Vanderbilt University.
 
-I am the lab of Tim Hohman, PhD., which is part of the [Vanderbilt Memory & Alzheimer's Center](https://www.vumc.org/vmac/).
+I am in the lab of Tim Hohman, PhD., which is part of the [Vanderbilt Memory & Alzheimer's Center](https://www.vumc.org/vmac/).
 
 Currently, I am studying sex differences underlying resilience to Alzheimer's disease! I use computational genetics methods including genome-wide association studies (GWAS), gene-and pathway-based tests, and genetic correlation analyses. 
 
